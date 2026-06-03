@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 daniyyell
+Copyright (c) 2026 daniyyell-dev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Note: This licence covers the generation scripts in this repository.
+The dataset files (CSV) published on Zenodo are released under CC BY 4.0.
+Third-party sources used to build the dataset (LOLBAS GPL-3.0, Atomic Red Team MIT)
+retain their own licences — see the Data sources section of README.md.

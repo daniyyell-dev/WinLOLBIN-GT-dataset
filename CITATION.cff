@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "WinLOLBIN-GT: A Behavioural Ground Truth Dataset for Machine Learning-Based Detection of Windows Living-Off-the-Land Binary Abuse"
+message: "Cite the Zenodo DOI for the data files; this repository provides generation scripts."
+type: software
+version: 1.0.1
+date-released: 2026-05-29
+license: MIT
+authors:
+  - name: Daniel Jeremiah
+    alias: daniyyell-dev
+    orcid: "https://orcid.org/0009-0000-0649-6324"
+    website: "https://github.com/daniyyell-dev"
+  - name: Husnain Rafiq
+    orcid: "https://orcid.org/0000-0002-3178-4026"
+  - name: Obinna Okoyeigbo
+    orcid: "https://orcid.org/0000-0003-4546-4127"
+repository-code: "https://github.com/daniyyell-dev/WinLOLBIN-GT-dataset"
+url: "https://doi.org/10.5281/zenodo.20533434"
+keywords:
+  - cybersecurity
+  - lolbin
+  - windows
+  - sysmon
+  - dataset
+  - ground-truth
+  - machine-learning
+  - detection-engineering

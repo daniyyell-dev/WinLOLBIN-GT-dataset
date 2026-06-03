@@ -2,7 +2,7 @@
 
 WinLOLBIN-GT is a labelled behavioural ground truth dataset developed to support machine learning-based detection of Windows Living-Off-the-Land Binary abuse. The dataset was constructed using a controlled laboratory testbed in which benign administrative activity and malicious LOLBin execution patterns were generated, captured, validated, and labelled. Each event was designed to reflect realistic process execution behaviour, including command-line structure, parent-child process relationships, file paths, user context, and mapped behavioural indicators.
 
-The dataset was used to train machine learning models for LOLBin abuse detection and was subsequently evaluated in a SIEM deployment setting. To assess generalisation, the trained model was tested against unfamiliar LOLBin attack scenarios that were not present in the training data. The deployed model correctly detected the unseen LOLBin attack activity with 99% accuracy, suggesting that the dataset can support both experimental model development and practical detection engineering.
+The dataset was used to train machine learning models for LOLBin abuse detection and was subsequently evaluated in a SIEM deployment setting. To assess generalisation, the trained model was tested on unfamiliar LOLBin attack scenarios not present in the training data. The deployed model correctly detected the unseen LOLBin attack activity with 99% accuracy, suggesting that the dataset can support both experimental model development and practical detection engineering.
 
 The contribution of WinLOLBIN-GT is threefold: it provides a reproducible ground truth dataset for Windows LOLBin abuse detection, a controlled testbed methodology for generating labelled behavioural telemetry, and an evaluation framework for validating machine learning models in operational SIEM environments.
 
@@ -98,5 +98,3 @@ Publicly available vendor write-ups, CTI feeds, and breach investigation finding
   doi     = {10.5281/zenodo.20533434}
 }
 ```
-
-Cite the **Zenodo DOI** when using the data files. Use [CITATION.cff](CITATION.cff) for software citation on GitHub.

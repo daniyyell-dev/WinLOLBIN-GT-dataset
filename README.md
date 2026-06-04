@@ -1,4 +1,4 @@
-# WinLOLBIN-GT: A Behavioural Ground Truth Dataset for Machine Learning-Based Detection of Windows Living-Off-the-Land Binary Abuse
+# WinLOLBIN-GT: A Behavioural Ground Truth Dataset for ML-Based Detection of Windows LOLBIN Abuse
 
 WinLOLBIN-GT is a labelled behavioural ground truth dataset developed to support machine learning-based detection of Windows Living-Off-the-Land Binary abuse. The dataset was constructed using a controlled laboratory testbed in which benign administrative activity and malicious LOLBin execution patterns were generated, captured, validated, and labelled. Each event was designed to reflect realistic process execution behaviour, including command-line structure, parent-child process relationships, file paths, user context, and mapped behavioural indicators.
 

@@ -17,7 +17,7 @@ The contribution of WinLOLBIN-GT is threefold: it provides a reproducible ground
 
 ## Dataset generation overview
 
-![Dataset generation process](docs/img/Process.png)
+![Dataset generation process](docs/img/fig01_generation_process.png)
 
 ## Generating the dataset
 
